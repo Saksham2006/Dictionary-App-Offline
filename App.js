@@ -18,7 +18,7 @@ export default class App extends React.Component {
           backgroundColor={'#34ebc9'}
           centerComponent={{
             text: 'Pocket Dictionary',
-            style: { color: 'red', fontSize: 20 },
+            style: { color: 'blue', fontSize: 20 },
           }}
         />
         <Image
